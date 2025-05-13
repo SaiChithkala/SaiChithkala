@@ -39,25 +39,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" style="filter: invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" />
 </p>
-
-## 📊 My GitHub Stats
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SaiChithkalalella&theme=midnight-purple&border_radius=5.6&card_width=320" alt="GitHub Streak" height="230" align="left"/>
-  </a>
-  
-  <a href="https://github.com/SaiChithkalalella/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiChithkalalella&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=5&theme=midnight-purple&hide_border=false" height="230" alt="Top Languages" align="right"/>
-  </a>
-</div>
-
-<br clear="both"/>
-
-## 🧩 Contribution Graph
-
-[![Sai's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiChithkalalella&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=SaiChithkalalella&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
