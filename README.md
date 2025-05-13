@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sai Chithkala Lella!</h1>
-<h2 align="center">🎓 3rd Year B.tech CSE Student | 💻 Android Developer | ☁️ Cloud Curious | 🚀 Always Learning</h2>
+<h2 align="center">🎓 Final Year B.tech CSE Student | 💻 web development | 🚀 Always Learning</h2>
 
 <h3 align="center"><p align="center">A passionate developer exploring the magic between software, design, and data. I thrive at the intersection of **technology and creativity**—from building mobile apps to experimenting with AI and Cloud. Fueled by curiosity and coffee, I’m on a mission to create meaningful digital experiences.</p></h3>
 
@@ -10,10 +10,6 @@
 - 🌱 Currently learning **ML, Neural Networks, and Cloud Computing**
 
 - 📱 Built a responsive [Weather App](https://github.com/SaiChithkala/Weather-report-website) using JavaScript & OpenWeatherMap API
-
-- 🎓 Pursuing B.Sc in Computer Science at **KIIT University** (CGPA: 7.7/10)
-
-- 👩‍💻 Completed **AICTE Virtual Internship** as Android Developer
 
 - 📜 Know more about my journey: [Resume](https://drive.google.com/file/d/1I-e23U5rVmCsAFB4Ip6yPenyp4jF5-6I/view?usp=sharing)
 
